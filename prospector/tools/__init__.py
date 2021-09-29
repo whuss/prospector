@@ -47,6 +47,7 @@ TOOLS = {
     "vulture": _optional_tool("vulture"),
     "pyroma": _optional_tool("pyroma"),
     "mypy": _optional_tool("mypy"),
+    "black": _optional_tool("black"),
     "bandit": _optional_tool("bandit"),
 }
 

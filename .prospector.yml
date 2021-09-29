@@ -8,6 +8,9 @@ max-line-length: 120
 ignore-paths:
   - docs/
 
+black:
+  run: true
+
 frosted:
   run: false
 
